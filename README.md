@@ -30,13 +30,13 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 
 [Glasstown NPB Regular](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Glasstown%20NPB%20Regular.tff) (160%, 10)<br />![Glasstown NPB Regular](/png/160,%20Glasstown%20NBP%20Regular,%2010.png)<br />
 
-[Manaspace Regular](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Manaspace%20Regular.tff) (120%, 10)<br />![Manaspace Regular](/png/120,%20Manaspace%20Regular,%2010.png.png)<br />
+[Manaspace Regular](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Manaspace%20Regular.tff) (120%, 10)<br />![Manaspace Regular](/png/120,%20Manaspace%20Regular,%2010.png)<br />
 
 [Miranda NBP](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Miranda%2NBP.tff) (160%, 10)<br />![Miranda NBP](/png/160,%20Miranda%20NPB,%2010.png)<br />
 
 [Mozart NBP](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Mozart%20NBP.tff) (160%, 10)<br />![Mozart NBP](/png/160,%20Mozart%20NBP,%2010.png)<br />
 
-[Pokemon GB](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Pokemon%20GB.tff) (100%, 8)<br />![Pokemon GB](/png/100,%2Pokemon%20GB,%208.png)<br />
+[Pokemon GB](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Pokemon%20GB.tff) (100%, 8)<br />![Pokemon GB](/png/100,%20Pokemon%20GB,%208.png)<br />
 
 [Portable Vengeance](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Portable%20Vengeance.tff) (50%, 9)<br />![Portable Vengeance](/png/50,%20Portable%20Vengeance,%209.png)<br />
 
