@@ -1,0 +1,19 @@
+# 0CC-FamiTracker appearance
+Background : 0x000000
+Highlighted background : 0x3C0000
+Highlighted background 2 : 0x800000
+Pattern text : 0xFF7624
+Highlighted pattern text : 0xFC91FF
+Highlighted pattern text 2 : 0xFFFFFF
+Instrument column : 0xFE9CFE
+Volume column : 0xBFBFBF
+Effect number column : 0xFAFF3C
+Selection : 0xF27D86
+Cursor : 0x808080
+Current row (normal mode) : 0xA02030
+Current row (edit mode) : 0x302080
+Current row (playing) : 0x400050
+Pattern colors : 1
+Flags : 0
+Font : 
+Font size : 
