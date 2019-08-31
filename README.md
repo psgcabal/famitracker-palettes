@@ -17,3 +17,7 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 [6px2bus](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/6px2bus.tff) (100%, 6)<br />![6px2bus](/png/100,%206px2bus,%206.png)<br />
 [6px2bus](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/6px2bus.tff) (100%, 10)<br />![6px2bus](/png/100,%206px2bus,%2010.png)<br />
 [Amiga Forever Pro2](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Amiga%20Forever%20Pro2.tff) (100%, 8)<br />![6px2bus](/png/100,%20Amiga%20Forever%20Pro2,%208.png)<br />
+[Tracker Wide (FastTracker 2)](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/FastTracker%202%20-%20Tracker%20Wide.fon) (100%, 10)<br />![Tracker Wide (FastTracker 2)](/png/100,%20Tracker%20Wide,%2010.png)<br />
+[PatternFont (Renoise)](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Renoise%203.1%20-%20PatternFont%20(install%20all).zip) (75%, 9)<br />![PatternFont (Renoise)](/png/75,%20RenoisePattern,%209.png)<br />
+[PatternFont (Renoise)](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Renoise%203.1%20-%20PatternFont%20(install%20all).zip) (100%, 9)<br />![PatternFont (Renoise)](/png/100,%20RenoisePattern,%209.png)<br />
+[stealth57 (Trash80)](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Trash80%20-%20stealth57%20Regular.ttf) (100%, 8)<br />![stealth57 (Trash80)](/png/200,%20stealth57%20Regular,%208.png)<br />
