@@ -14,4 +14,5 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 [Strawberry Candy](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Strawberry%20Candy.txt) (Dimeback)<br />![Strawberry Candy](/png/Strawberry%20Candy.png)<br />
 
 # Fonts
-[6px2bus](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/6px2bus.tff) (100%, 6)<br />[6px2bus](/png/100,%206px2bus,%206.png)<br />
+[6px2bus](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/6px2bus.tff) (100%, 6)<br />![6px2bus](/png/100,%206px2bus,%206.png)<br />
+[6px2bus](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/6px2bus.tff) (100%, 10)<br />![6px2bus](/png/100,%2010px2bus,%206.png)<br />
