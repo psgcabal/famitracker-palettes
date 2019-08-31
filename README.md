@@ -16,4 +16,4 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 # Fonts
 [6px2bus](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/6px2bus.tff) (100%, 6)<br />![6px2bus](/png/100,%206px2bus,%206.png)<br />
 [6px2bus](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/6px2bus.tff) (100%, 10)<br />![6px2bus](/png/100,%206px2bus,%2010.png)<br />
-[Amiga Forever Pro2](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Amiga Forever Pro2.tff) (100%, 8)<br />![6px2bus](/png/100,%20Amiga%20Forever%20Pro2,%208.png)<br />
+[Amiga Forever Pro2](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Amiga%20Forever%20Pro2.tff) (100%, 8)<br />![6px2bus](/png/100,%20Amiga%20Forever%20Pro2,%208.png)<br />
