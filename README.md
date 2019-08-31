@@ -53,7 +53,7 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 [PatternFont (Renoise)](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Renoise%203.1%20-%20PatternFont%20(install%20all).zip) (100%, 9)<br />![PatternFont (Renoise)](/png/100,%20RenoisePattern,%209.png)<br />
 
 
-[stealth57 (Trash80)](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Trash80%20-%20stealth57%20Regular.ttf) (100%, 8)<br />![stealth57 (Trash80)](/png/200,%20stealth57%20Regular,%208.png)<br />
+[stealth57 (Trash80)](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Trash80%20-%20stealth57%20Regular.ttf) (200%, 8)<br />![stealth57 (Trash80)](/png/200,%20stealth57%20Regular,%208.png)<br />
 
 [Super Legend Boy](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Super%20Legend%20Boy.tff) (100%, 9)<br />![Super Legend Boy](/png/100,%20Super%20Legend%20Boy,%209.png)<br />
 
