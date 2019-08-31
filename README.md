@@ -20,7 +20,7 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 
 [Amstrad CPC464 Regular](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Amstrad%20CPC464%20Regular.tff) (85%, 9)<br />![Amstrad CPC464 Regular](/png/85,%20Amstrad%20CPC464%20Regular,%209.png)<br />
 
-[ChiKareGo2](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/ChiKareGo2.tff) (160%, 10)<br />![ChiKareGo2](/png/ChiKareGo2.png)<br />
+[ChiKareGo2](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/ChiKareGo2.tff) (160%, 10)<br />![ChiKareGo2](/png/160,%20ChiKareGo2,%2010.png)<br />
 
 [Emulogic](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Emulogic.tff) (100%, 8)<br />![Emulogic](/png/100,%20Emulogic,%208.png)<br />
 
