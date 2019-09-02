@@ -40,7 +40,7 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 
 [Portable Vengeance](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Portable%20Vengeance.tff) (50%, 9)<br />![Portable Vengeance](/png/50,%20Portable%20Vengeance,%209.png)<br />
 
-[Portico Light](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Portico%20Light.otf) (100%, 10)<br />![Portico Light](/png/100,%Portico%Light,%2010.png)<br />
+[Portico Light](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Portico%20Light.otf) (100%, 10)<br />![Portico Light](/png/100,%20Portico%20Light,%2010.png)<br />
 
 [Press Start 2P](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/Press%20Start%202P.tff) (85%, 9)<br />![Press Start 2P](/png/85,%20Press%20Start%202P,%209.png)<br />
 
