@@ -3,6 +3,7 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 
 [Bleed](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/bleed.txt) (Recoherent)<br />![Bleed](/png/Bleed.png)<br />
 [Chilly Blue](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Chilly%20Blue.txt) (Recoherent)<br />![Chilly Blue](/png/Chilly%20Blue.png)<br />
+[Dracula](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Dracula.txt) (Aquellex)<br />![Dracula](/png/Dracula.png)<br />
 [Entropy](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/entropy.txt) (Recoherent)<br />![Entropy](/png/entropy.png)<br />
 [Frostbite](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/frostbite.txt) (Recoherent)<br />![Frostbite](/png/frostbite.png)<br />
 [Grape Soda](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Grape%20Soda.txt) (Aquellex)<br />![Grape Soda](/png/Grape%20Soda.png)<br />
