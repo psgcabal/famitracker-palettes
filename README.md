@@ -13,6 +13,7 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 ## [Night Sky](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Deathro.txt) (DB_Drgn_)<br />![Night Sky](/png/Deathro.png)<br />
 ## [Pseudo-Cobalt](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Pseudo-Cobalt.txt) (Aquellex)<br />![Pseudo-Cobalt](/png/Pseudo-Cobalt.png)<br />
 ## [Strawberry Candy](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Strawberry%20Candy.txt) (Dimeback)<br />![Strawberry Candy](/png/Strawberry%20Candy.png)<br />
+## [Suika](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Suika.txt) (Mel)<br />![Suika](/png/Suika.png)<br />
 
 # Fonts
 ## [6px2bus](https://github.com/psgcabal/famitracker-palettes/raw/master/fnt/6px2bus.tff) (100%, 6)<br />![6px2bus](/png/100,%206px2bus,%206.png)<br />
