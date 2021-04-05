@@ -1,0 +1,20 @@
+# Dn-FamiTracker appearance
+Background : 0x11000A
+Highlighted background : 0x240007
+Highlighted background 2 : 0x40000C
+Pattern text : 0xFFBA04
+Highlighted pattern text : 0xFFDA79
+Highlighted pattern text 2 : 0xF1FFA6
+Instrument column : 0x9FFF80
+Volume column : 0x8AD0FF
+Effect number column : 0x5E7DFF
+Selection : 0x0F70B7
+Cursor : 0x9D6278
+Current row (normal mode) : 0xA02030
+Current row (edit mode) : 0x302080
+Current row (playing) : 0x400050
+Pattern colors : 1
+Flags : 0
+Font : Fixedsys
+Font size : 11
+Font percent : 100

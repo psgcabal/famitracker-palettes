@@ -1,0 +1,20 @@
+# j0CC-FamiTracker appearance
+Background : 0x000717
+Highlighted background : 0x011B34
+Highlighted background 2 : 0x093159
+Pattern text : 0xD0E7F9
+Highlighted pattern text : 0x8CD2F4
+Highlighted pattern text 2 : 0xABD5F3
+Instrument column : 0x9DD0FF
+Volume column : 0xC5D6FE
+Effect number column : 0x60A6F2
+Selection : 0xFF8080
+Cursor : 0x707070
+Current row (normal mode) : 0x1A143F
+Current row (edit mode) : 0x302080
+Current row (playing) : 0x400050
+Pattern colors : 1
+Flags : 0
+Font : Fixedsys
+Font size : 10
+Font percent : 100
