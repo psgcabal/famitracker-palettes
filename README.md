@@ -3,7 +3,7 @@ Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/rel
 
 # Instructions for use
 1. Open **Configuration** from the File menu.
-2. Click on the **Apperance** tab.
+2. Click on the **Appearance** tab.
 3. Click **Load** on the bottom right, and import your desired palette in its .txt form!
 
 ## [Bleed](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/bleed.txt) (Recoherent)<br />![Bleed](/png/Bleed.png)<br />
