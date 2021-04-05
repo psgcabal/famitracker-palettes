@@ -1,6 +1,11 @@
 # famitracker-palettes
 Palettes for use with <a href="https://github.com/jimbo1qaz/j0CC-FamiTracker/releases" target="_blank">j0CC-FamiTracker</a><br />
 
+# Instructions for use
+1. Open **Configuration** from the File menu.
+2. Click on the **Apperance** tab.
+3. Click **Load** on the bottom right, and import your desired palette in its .txt form!
+
 ## [Bleed](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/bleed.txt) (Recoherent)<br />![Bleed](/png/Bleed.png)<br />
 ## [Chilly Blue](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Chilly%20Blue.txt) (Recoherent)<br />![Chilly Blue](/png/Chilly%20Blue.png)<br />
 ## [Dracula](https://github.com/psgcabal/famitracker-palettes/raw/master/txt/Dracula.txt) (Aquellex)<br />![Dracula](/png/Dracula.png)<br />
